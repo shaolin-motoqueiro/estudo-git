@@ -1,0 +1,1 @@
+Olá, este é o primeiro arquivo para estudarmos como funciona o GIT e o GITHUB
